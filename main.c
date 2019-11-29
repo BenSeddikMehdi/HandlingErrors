@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Adding macros
 #define CHECK(X) ({\
                     int __val = (X); (__val == -1 ? \
                  ({fprintf(stderr, "ERROR: "__FILE__ ": %d %s\n", __LINE__, strerror(errno));\
