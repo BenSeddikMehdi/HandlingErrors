@@ -3,4 +3,4 @@ project(HandlingErrors C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(HandlingErrors main.c)
+add_executable(HandlingErrors main.c HandleErrors.h)

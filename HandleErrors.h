@@ -1,0 +1,9 @@
+//
+// Created by El Mehdi Benseddik on 11/29/2019.
+//
+
+#ifndef HANDLINGERRORS_HANDLEERRORS_H
+#define HANDLINGERRORS_HANDLEERRORS_H
+
+
+#endif //HANDLINGERRORS_HANDLEERRORS_H
